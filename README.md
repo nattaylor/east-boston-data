@@ -6,6 +6,10 @@ Basically these just use the SQL endpoints to view recent data.
 
 ## Notes
 
+## General
+
+* Assessing `CM_ID` is "Condo Main"
+
 ## Tips for SQL via CKAN DataStore extension
 
 * The docs for `SELECT` at http://docs.ckan.org/en/latest/maintaining/datastore.html?highlight=sql#ckanext.datastore.logic.action.datastore_search_sql are light.
